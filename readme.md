@@ -13,7 +13,7 @@ This is a Flysystem adapter for the aws-sdk-php v3. Forked to support minio. (ht
 # Installation
 
 ```bash
-composer require coraxster/flysystem-aws-s3-v3-minio
+composer require digiservnet/flysystem-aws-s3-v3-minio
 ```
 
 # Bootstrap
